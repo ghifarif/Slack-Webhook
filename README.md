@@ -1,5 +1,6 @@
 This program/API will listen to designated endpoints&port and acts accordingly to each HTTP feeding. Each call made will out to slack nicely as ephemeral reply.
 Combine with system-daemon such as systemd/sysvinit to allocate worker/PID for each endpoints call made.
+![image](https://user-images.githubusercontent.com/101460772/158055449-292b08af-3909-4418-9fb5-208ae85ccaa6.png)
 Can be used literally/conceptually for similiar use case where automatic/macro action/operation are heavily required as well.
 
 Refference used/related in this repo:
